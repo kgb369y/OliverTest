@@ -25,8 +25,8 @@ Scenario Outline: Editing the shopping cart
 	Examples: 
 		| products already              | products to add | products to delete | finally products                            |
 		| Breuer Sectional, Breuer Sofa |                 |        Breuer Sofa | Breuer Sectional                            |
-		#| Breuer Sectional, Breuer Sofa | Coola Pillow    |                    | Breuer Sectional, Breuer Sofa, Coola Pillow |
-		#| Breuer Sectional, Breuer Sofa | Coola Pillow    |   Breuer Sectional | Breuer Sectional, Coola Pillow              |
+		| Breuer Sectional, Breuer Sofa | Coola Pillow    |                    | Breuer Sectional, Breuer Sofa, Coola Pillow |
+		| Breuer Sectional, Breuer Sofa | Coola Pillow    |   Breuer Sectional | Breuer Sectional, Coola Pillow              |
 		
 		
 @BuyProducts
