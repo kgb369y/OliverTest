@@ -1,6 +1,6 @@
 # OliverTest
 #Content
-This project include the automation test cases defined and implemented to give coverage to Oliver Space web site with study purpose By [Katy Garcia](https://www.linkedin.com/in/katygb) kgb369y@gmail.com.
+This project include the automation test cases defined and implemented to give coverage to Oliver Space web site with study purpose By [Katy Garcia](https://www.linkedin.com/in/katygb) [@kgb369y](kgb369y@gmail.com)
 
 #Setup instructions
 To execute this code is needed install JAVA latest version and MAVEN latest version and configure 
